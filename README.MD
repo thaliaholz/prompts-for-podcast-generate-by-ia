@@ -25,7 +25,7 @@
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
-
+"C:\Users\Thalia Holz Nunes\Downloads\ElevenLabs_2025-01-16T23_36_17_Rachel_pre_s50_sb75_se0_b_m2.mp3"
 # Projeto Podcast Gerado por I.A.s
 
 
@@ -52,3 +52,5 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 blob:https://elevenlabs.io/e4ed9605-3bfc-466c-aaee-7f7ac301049d
 ElevenLabs_2025-01-16T23_36_17_Rachel_pre_s50_sb75_se0_b_m2
+
+
